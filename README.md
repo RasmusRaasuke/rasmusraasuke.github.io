@@ -1,2 +1,2 @@
-# RasmusRaasuke.github.io-lambda
+# RasmusRaasuke.github.io
 Sissejuhatus Infotehnoloogiasse Kontrolltöö 6
